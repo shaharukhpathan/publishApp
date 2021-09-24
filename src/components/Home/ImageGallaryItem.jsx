@@ -1,7 +1,11 @@
 export const ImageGallaryItem = (props) => {
   return (
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <a href="{props.wikiUrl" target="_blank">
+=======
+    <a href="{props.wikiUrl}" target="_blank">
+>>>>>>> Stashed changes
       <table>
         <tr>
           <td>
